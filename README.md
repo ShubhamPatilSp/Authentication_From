@@ -1,11 +1,8 @@
-![Screenshot 2024-05-15 140120](https://github.com/ShubhamPatilSp/Authentication_From/assets/122681369/2ab7306f-2c39-4011-bc75-2c5862d7ede2)
-
-
-
-
-
-
-
+![Screenshot 2024-05-15 140120](https://github.com/ShubhamPatilSp/Authentication_From/assets/122681369/17b0f5e9-147e-416f-87fc-7516b02bcb1c)
+![Screenshot 2024-05-15 143950](https://github.com/ShubhamPatilSp/Authentication_From/assets/122681369/a3f4c59b-0ae9-4b9d-abde-8d5ec750de4f)
+![Screenshot 2024-05-15 144052](https://github.com/ShubhamPatilSp/Authentication_From/assets/122681369/5e827f11-d5d3-434b-8571-d1e01ce39185)
+![Screenshot 2024-05-15 144117](https://github.com/ShubhamPatilSp/Authentication_From/assets/122681369/9181be4e-ef9e-41a6-a55f-d3dc24c07a3b)
+![Screenshot 2024-05-15 144129](https://github.com/ShubhamPatilSp/Authentication_From/assets/122681369/6af09988-4c3d-4f56-90b6-568881f34597)
 
 
 
