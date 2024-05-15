@@ -1,3 +1,15 @@
+![Screenshot 2024-05-15 140120](https://github.com/ShubhamPatilSp/Authentication_From/assets/122681369/2ab7306f-2c39-4011-bc75-2c5862d7ede2)
+
+
+
+
+
+
+
+
+
+
+
 # Authentication_From
 Utilizes Node.js for server-side functionality. Express.js is employed for routing and middleware. Passport.js handles authentication. MongoDB is used for database storage (not included in the application).
 # Secure Login and Registration Application
